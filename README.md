@@ -2,7 +2,7 @@
 
 #### _Simple calculator, 08-08-16_
 
-#### By _**Joanna Anderson & Andrew Malkin**_
+#### By _**Joanna Anderson & Jason Downing**_
 
 ## Description
 
@@ -14,7 +14,7 @@ _This is a simple calculator consisting of the four main operations - add, subtr
 
 ## Support and contact details
 
-* _Andrew Malkin -- andymalkin@gmail.com -- github.com/tiki84626_
+* _Jason Downing -- jhdowning@gmail.com -- github.com/downingforce_
 * _Joanna Anderson -- joanna.saerom.anderson@gmail.com -- github.com/jsaerom_
 
 ## Technologies Used
@@ -26,4 +26,4 @@ _This is a simple calculator consisting of the four main operations - add, subtr
 
 _This is licensed under MIT license._
 
-Copyright (c) 2016 **_Tiki and Jsaerom_**
+Copyright (c) 2016 **_Downing and Jsaerom_**
